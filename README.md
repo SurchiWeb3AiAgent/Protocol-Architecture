@@ -1,56 +1,244 @@
-# 🌌 SURCHI: THE NEURAL SENTINEL
-**Next-Generation AI Intelligence Core on Solana**
+🧠 SURCHI Protocol
 
-[![Solana Mainnet](https://img.shields.io/badge/Network-Solana_Mainnet-00FFA3?style=for-the-badge&logo=solana&logoColor=black)](https://solana.com)
-[![Version](https://img.shields.io/badge/Version-2026.1.0_LTS-6E56AF?style=for-the-badge)](https://github.com/)
-[![Liquidity](https://img.shields.io/badge/Liquidity-24_Month_Lock-FF4136?style=for-the-badge)](https://solscan.io)
+"Status" (https://img.shields.io/badge/status-active-success)
+"Version" (https://img.shields.io/badge/version-0.1.0-blue)
+"License" (https://img.shields.io/badge/license-MIT-green)
+"Built With" (https://img.shields.io/badge/built%20with-TypeScript-black)
+"Blockchain" (https://img.shields.io/badge/network-Solana-purple)
 
----
+SURCHI is a modular, autonomous intelligence protocol designed as a decentralized execution layer for Web3.
 
-### 「 PROTOCOL ARCHITECTURE 2026/2027 」
-> *Surchi isn't a dashboard; it's a living, autonomous agent suite designed to dominate the high-velocity Solana landscape.*
+It combines:
 
-**[ 🟢 System Status: Active ]** | **[ 🔵 Network: Mainnet ]** | **[ 🔥 Supply: 19,897,905 ]**
+- 🤖 Artificial Intelligence
+- 📡 Real-time market telemetry
+- 🔐 Secure transaction infrastructure
+- 🏛 Decentralized governance
 
----
-
-## 💎 Tokenomics Engine ($SURCHI)
-
-The protocol is built on a **Hard-Capped Supply of 19,897,905 $SURCHI**.
-
-### 3.1 Token Allocation
-
-| Segment | Weight | Amount | Terms |
-| :--- | :--- | :--- | :--- |
-| **Public Distribution** | 70% | 13,928,533.5 | Presale & Fair Launch |
-| **Liquidity Provision** | 25% | 4,974,476.25 | Locked 24 Months (Squads) |
-| **Ecosystem Reserve** | 5% | 994,895.25 | Protocol Growth & DAO |
-
-### 3.2 Presale Parameters
-
-The public distribution phase is governed by the following smart contract parameters:
-
-| Parameter | Value |
-| :--- | :--- |
-| **Presale Rate** | 17,410 $SURCHI per 1 SOL |
-| **Soft Cap** | 100 SOL |
-| **Hard Cap** | 800 SOL |
-| **Min Contribution** | 0.1 SOL |
-| **Max Contribution** | 20 SOL |
+Into a unified system optimized for speed, resilience, and autonomous decision-making.
 
 ---
 
-## 🛠 Developer Quickstart (Solana CLI)
+🚀 Vision
 
-To verify the supply or interact with the $SURCHI token program, use the following commands:
+«Autonomous intelligence + sovereign execution»
 
-```bash
-# 1. Inspect Token Metadata
-spl-token display [TOKEN_ADDRESS]
+SURCHI introduces a new category of decentralized infrastructure where systems don’t just analyze markets — they operate within them.
 
-# 2. Verify Hard-Capped Supply
-# Target: 19,897,905
-spl-token supply [TOKEN_ADDRESS]
+---
 
-# 3. Check Account Balance
-spl-token balance [TOKEN_ADDRESS]
+🧩 Architecture Overview
+
+SURCHI is not a traditional dApp.
+
+It is an intelligent protocol stack composed of:
+
+- Autonomous agents
+- Signal processors
+- Execution layers
+- Governance systems
+
+These components transform fragmented data into real-time, executable outcomes.
+
+---
+
+🏗 Protocol Architecture Diagram
+
+        ┌──────────────────────────────┐
+        │     Data Ingestion Layer     │
+        └────────────┬─────────────────┘
+                     ↓
+        ┌──────────────────────────────┐
+        │  Sentinel Intelligence Layer │
+        │  (Alpha / Liquidity / Exec)  │
+        └────────────┬─────────────────┘
+                     ↓
+        ┌──────────────────────────────┐
+        │ Intent Interpretation Layer  │
+        │  (Natural Language → Logic)  │
+        └────────────┬─────────────────┘
+                     ↓
+        ┌──────────────────────────────┐
+        │ Execution & Security Layer   │
+        └────────────┬─────────────────┘
+                     ↓
+        ┌──────────────────────────────┐
+        │ Governance & Coordination    │
+        │          (DAO)               │
+        └──────────────────────────────┘
+
+---
+
+🧱 Core Principle
+
+«Decentralized markets should be intelligent, responsive, and autonomous»
+
+---
+
+🧬 Protocol Layers
+
+1️⃣ Data Ingestion Layer
+
+The sensory system of SURCHI.
+
+Sources
+
+- Solana on-chain data
+- Wallet activity
+- Liquidity pools & AMMs
+- DEX trades
+- Social platforms (X, Telegram, Discord)
+- Community sentiment
+
+Functions
+
+- Continuous real-time collection
+- Data normalization
+- Signal preparation
+
+---
+
+2️⃣ Sentinel Intelligence Layer
+
+The cognitive engine powered by modular AI agents.
+
+🧠 Alpha Sentinel
+
+- Narrative detection
+- Sentiment analysis
+- Trend acceleration
+
+💧 Liquidity Sentinel
+
+- Liquidity health monitoring
+- Whale tracking
+- Rug risk detection
+
+⚡ Execution Sentinel
+
+- Trade routing
+- Slippage optimization
+- Strategy execution
+
+---
+
+3️⃣ Intent Interpretation Layer
+
+Transforms human intent into executable logic.
+
+Example
+
+Monitor trending Solana AI tokens  
+Buy with 2 SOL if liquidity > $500k and sentiment rises  
+Exit at 2x or if top holders drop 5%
+
+Output
+
+- Entry conditions
+- Exit logic
+- Risk parameters
+- Position sizing
+
+---
+
+4️⃣ Execution & Security Layer
+
+Ensures safe, autonomous execution.
+
+Components
+
+- Transaction routing engine
+- Authorization system
+- Secure signing (mobile / vault)
+- Risk control module
+
+---
+
+5️⃣ Governance & Coordination Layer
+
+Powered by $SURCHI token + DAO
+
+Controls
+
+- Treasury allocation
+- Protocol upgrades
+- Sentinel tuning
+- Ecosystem grants
+
+---
+
+⚙️ Design Principles
+
+- Modularity → Independent components
+- Autonomy → Condition-based execution
+- Composability → Interoperable layers
+- Security → User-controlled actions
+- Scalability → Expandable system
+- Decentralization → DAO governance
+
+---
+
+📦 Repository Structure
+
+src/
+ ├── ingestion/
+ ├── sentinels/
+ ├── intent/
+ ├── execution/
+ └── governance/
+
+---
+
+▶️ Getting Started
+
+git clone https://github.com/yourusername/surchi-protocol.git
+cd surchi-protocol
+npm install
+npm run dev
+
+---
+
+🛣 Roadmap
+
+- [ ] Data ingestion pipelines (Solana + social APIs)
+- [ ] Sentinel AI models
+- [ ] Natural language strategy engine
+- [ ] Jupiter trading integration
+- [ ] Mobile + web dashboard
+- [ ] DAO governance contracts
+
+---
+
+🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repo
+2. Create a feature branch
+3. Submit a PR
+
+---
+
+📜 License
+
+MIT License
+
+---
+
+🌐 Final Note
+
+SURCHI is not just another trading tool.
+
+It is an autonomous intelligence protocol designed to:
+
+- Observe
+- Interpret
+- Execute
+- Govern
+
+All in real time.
+
+---
+
+SURCHI doesn’t follow the market.
+It reacts, adapts, and acts.
